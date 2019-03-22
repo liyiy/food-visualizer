@@ -1,1 +1,7 @@
-/* custom css */
+body {
+  background-color: pink;
+}
+
+h1 {
+  background-color: white;
+}
